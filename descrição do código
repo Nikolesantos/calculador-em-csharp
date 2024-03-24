@@ -1,0 +1,17 @@
+Declaração de Variáveis:
+resposta_usuario: Armazena a resposta do usuário sobre o tipo de cálculo desejado.
+N1, N2, total1: Variáveis para realizar a adição.
+Num01, Num02, resultado_subtracao: Variáveis para realizar a subtração.
+multiplicando, multiplicador, total_multiplicacao: Variáveis para realizar a multiplicação.
+dividendo, divisor, resultado_Divisão: Variáveis para realizar a divisão.
+bloco_de_notas: Um array de strings para armazenar notas (ainda não utilizado no código).
+Apresentação do Programa:
+O programa começa pedindo ao usuário para escolher o tipo de cálculo (adição, subtração, multiplicação ou divisão).
+Switch Case:
+Com base na resposta do usuário, o programa entra em um dos casos:
+Adição (A ou a): Solicita dois números e calcula a soma.
+Subtração (S ou s): Solicita dois números e calcula a diferença.
+Multiplicação (M ou m): Solicita dois números e calcula o produto.
+Divisão (D ou d): Solicita dois números e calcula o quociente.
+Saída de Resultados:
+Os resultados são exibidos na tela.
